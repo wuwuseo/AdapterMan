@@ -16,7 +16,6 @@
         ]
     },
     "require": {
-        "joanhey/adapterman": "^0.5.5",
         "wuwuseo/adapter-workerman": "^1.0"
     }
 }
