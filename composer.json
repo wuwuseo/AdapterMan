@@ -1,0 +1,22 @@
+{
+    "name": "wuwuseo/cmf-adapterman",
+    "authors": [
+        {
+            "name": "五五",
+            "email": "wuwu@wuwuseo.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "wuwuseo\\cmf\\adapterman": "src"
+        },
+        "classmap": [
+            "src/UploadedFile.php"
+        ]
+    },
+    "require": {
+        "joanhey/adapterman": "^0.5.5",
+        "wuwuseo/adapter-workerman": "^1.0"
+    }
+}
