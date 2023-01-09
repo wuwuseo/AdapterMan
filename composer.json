@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "wuwuseo\\cmf\\adapterman": "src"
+            "wuwuseo\\cmf\\adapterman\\": "src"
         },
         "classmap": [
             "src/UploadedFile.php"
